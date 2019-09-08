@@ -1,0 +1,1 @@
+# Polkadot wiki Korean translation
